@@ -1,15 +1,15 @@
 # Sokoban - Projet L3 Informatique
 
-Ce projet est une implémentation du jeu classique **Sokoban** développée en **Java** avec le framework **LibGDX**. L'application respecte une architecture logicielle rigoureuse basée sur le patron de conception **MVC** (Modèle-Vue-Contrôleur).
+Ce projet est une implémentation du jeu classique **Sokoban** développée en **Java** avec le framework **LibGDX**. 
+L'application respecte une architecture logicielle basée sur le patron de conception **MVC**.
 
 ## Prérequis
 
-* **Java JDK 17** (ou supérieur) installé.
-* Une connexion internet (lors du premier lancement uniquement) pour le téléchargement automatique des dépendances via Gradle.
+* **Java JDK 17**
+* **LIBgdx 1.14**
+* **Graddle 9.2.1**
 
 ## Installation et Exécution
-
-Le projet utilise le **Gradle Wrapper** fourni. Il n'est pas nécessaire d'installer Gradle sur votre machine.
 
 1. **Clonage du projet (dans le répertoire courant) :**
     ```bash
@@ -26,4 +26,3 @@ Le projet utilise le **Gradle Wrapper** fourni. Il n'est pas nécessaire d'insta
 * Déplacement du joueur : flèches directionnelles (↑, ↓, ←, →)
 * Afficher l'aide : touche H
 * Quitter le jeu : touche Échap
-
