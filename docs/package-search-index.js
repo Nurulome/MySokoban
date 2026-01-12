@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.bernardpablo.sokoban"},{"l":"com.bernardpablo.sokoban.entities.factory"},{"l":"com.bernardpablo.sokoban.logic"},{"l":"com.bernardpablo.sokoban.lwjgl3"}];updateSearchResults();
